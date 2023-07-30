@@ -1,0 +1,23 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+# 
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Bolditalic Type School <bolditalic@icloud.com>
+Dmitry Goloub <dmitry.goloub@icloud.com>
+Natalia Khusainova <capitanata95@mail.ru>
+Stanislav Podusenko <podusenko@gmail.com>
+Anastasia Stasyuk <stasyuk.ar@gmail.com>
+Dinara Tuysina <tuysinad@yandex.ru>
+Vadim Lupalo <vadim.lupalo@gmail.com>
+Oksana Sheinman <kasamka@gmail.com>
+Anna Chistyakova <anoka.illustrator@gmail.com>
+Jane Izmailova <jane.izm14@gmail.com>
+Artёm Veretёnko <ronhool@icloud.com>
+Mariya Zamyatina <masha2z.rys@gmail.com>
+Olga Artemieva <olgaaartemieva@gmail.com>
+Daria Drozhzhina <darik.drozhzhina@gmail.com>
+Maria Kasatkina <maria.kasatkina@yahoo.com>
+Anna Komleva <ann.komleva@mail.ru>
