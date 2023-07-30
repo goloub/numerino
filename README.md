@@ -8,20 +8,7 @@ Now the typeface is ready to use. So far only numbers, but mathematical symbols 
 
 Type designers:
 
-Natalia Khusainova 
-Stanislav Podusenko
-Anastasia Stasyuk
-Dinara Tuysina
-Vadim Lupalo
-Oksana Sheinman
-Anna Chistyakova
-Jane Izmailova
-Artёm Veretёnko
-Mariya Zamyatina
-Olga Artemieva
-Daria Drozhzhina
-Maria Kasatkina
-Anna Komleva
+Natalia Khusainova, Stanislav Podusenko, Anastasia Stasyuk, Dinara Tuysina, Vadim Lupalo, Oksana Sheinman, Anna Chistyakova, Jane Izmailova, Artёm Veretёnko, Mariya Zamyatina, Olga Artemieva, Daria Drozhzhina, Maria Kasatkina, Anna Komleva
 
 
 Project team: 
