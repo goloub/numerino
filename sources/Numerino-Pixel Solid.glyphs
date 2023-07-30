@@ -1,10 +1,10 @@
 {
-.appVersion = "3207";
+.appVersion = "3208";
 .formatVersion = 3;
 DisplayStrings = (
 "123456789"
 );
-date = "2023-03-23 09:34:47 +0000";
+date = "2023-07-20 11:19:18 +0000";
 familyName = Numerino;
 fontMaster = (
 {
@@ -1257,7 +1257,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Vadim Lupalo & Bolditalic team";
+value = "Vadim Lupalo";
 }
 );
 },
@@ -1266,12 +1266,50 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2023 by Bolditalic team. All rights reserved.";
+value = "Copyright 2023 The Numerino Project Authors (https://github.com/goloub/numerino)";
 }
 );
+},
+{
+key = manufacturerURL;
+value = "http://www.bolditalic.xyz";
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = vendorID;
+value = BITA;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = uniqueID;
+value = "BolditalicXYZ: Numerino: 2023 0.5";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Dmitry Goloub";
+}
+);
+},
+{
+key = designerURL;
+value = "https://www.behance.net/vadimlupalo";
 }
 );
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 100;
+versionMinor = 500;
 }

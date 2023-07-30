@@ -1,7 +1,7 @@
 {
-.appVersion = "3207";
+.appVersion = "3208";
 .formatVersion = 3;
-date = "2023-07-20 11:16:44 +0000";
+date = "2023-07-20 11:19:18 +0000";
 familyName = Numerino;
 featurePrefixes = (
 {
@@ -68,7 +68,7 @@ pos = -230;
 {
 }
 );
-name = Storm;
+name = Tail;
 }
 );
 glyphs = (
@@ -2337,7 +2337,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2023 by Bolditalic team. All rights reserved.";
+value = "Copyright 2023 The Numerino Project Authors (https://github.com/goloub/numerino)";
 }
 );
 },
@@ -2346,9 +2346,47 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Masha Zamyatina & Bolditalic team";
+value = "Mariya Zamyatina";
 }
 );
+},
+{
+key = manufacturerURL;
+value = "http://www.bolditalic.xyz";
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = vendorID;
+value = BITA;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = uniqueID;
+value = "BolditalicXYZ: Numerino: 2023 0.5";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Dmitry Goloub";
+}
+);
+},
+{
+key = designerURL;
+value = "https://www.behance.net/zamyatinam8ed4";
 }
 );
 settings = {
@@ -3773,5 +3811,5 @@ zerowidthspace = None;
 "com.hugojourdan.ColorFlow-selectedLayer-data" = "<null>";
 };
 versionMajor = 0;
-versionMinor = 8;
+versionMinor = 500;
 }
